@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=FF197E&width=435&lines=JungEun's+Github%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <!--
 **did00417/did00417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
