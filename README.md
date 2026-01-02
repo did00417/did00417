@@ -1,15 +1,15 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=30&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=%F0%9F%92%BBJungEun's+GITHUB%F0%9F%A9%B7)](https://git.io/typing-svg)
-
+----
 <br/>
-<!-- <img src="https://github.com/USERNAME/REPOSITORY/assets/이미지ID/character.png" width="240" /> -->
+<img src="https://github.com/user-attachments/assets/3b23cd81-4622-42db-b334-90d0c9600f24" 
+  width="220" />
+
 <br/>
 <p>
 QA 엔지니어를 목표로 공부하고 있습니다 🧪<br/>
-웹 서비스가 정상적으로 동작하는지를 확인하는 과정에 관심이 많고,<br/>
-단순히 테스트를 실행하는 것이 아니라<br/>
-왜 이 테스트가 필요한지 이해하며 자동화 코드를 작성하려고 노력하고 있습니다.<br/><br/>
+웹 서비스가 정상적으로 동작하는지를 확인하는 과정에 관심이 많습니다<br/>
 
 현재는 Python을 기반으로 Selenium, pytest를 활용한<br/>
 UI 자동화 테스트를 중심으로 학습하고 있으며,<br/>
