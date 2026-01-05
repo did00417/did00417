@@ -22,6 +22,22 @@ UI 자동화 테스트를 중심으로 학습하고 있으며,<br/>
 
 ## 🧪 Skills & Tools
 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=myob&logoColor=white" /><img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=myob&logoColor=white" /><img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=myob&logoColor=white" /><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=myob&logoColor=white" /><img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=myob&logoColor=white" /><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=myob&logoColor=white" /><img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=myob&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/nodedotjs-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+
 
 </div>
