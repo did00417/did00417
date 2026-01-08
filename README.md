@@ -37,6 +37,11 @@ UI 자동화 테스트를 중심으로 학습하고 있으며,<br/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
+<img src="http://mazandi.herokuapp.com/api?handle=did00417&theme=cold"/>
+
+
+
+
 
 
 </div>
